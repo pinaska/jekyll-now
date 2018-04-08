@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Kate, I am thirty something Polish girl, living in Canada.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+* Academic background: European language and finance.
+* I have been working 8 years in corporate environment before I discover blogging. And from blogging on Wordpress, it was a natural way to dive more into web development.
 
-### Contact me
+### Wanna know more?
 
-[email@domain.com](mailto:email@domain.com)
+[kasiaikod@gmail.com](mailto:info@kasiaikod.pl)
