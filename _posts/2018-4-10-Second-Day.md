@@ -1,16 +1,18 @@
 ---
 layout: post
-date: 2018-04-10
-title: Day 02
+date: 2018-04-11
+title: Day 03
 ---
 
-* Basic html
-* Visual Code studio editor (so far I've been using Atom)
-* checking out some nice CSS kitten on codepen
-ad it was raining like crazy.
-We were learning basics at a good pace, so all group felt quite comfortable. In the meantime we were working on our project, that's due in 2 weeks.
-I managed to layout the structure and basic css. Started on making flexbox gallery. Some of use are using css grid to that.
-Something new - standup meetings at the end of class, based on scrum concept. Nice to have a team meeting again....
+* everything you should know about CSS
+* I am not using Visual Code studio editor (feeling like typing goes faster in Atom, for me, for now)
+* absolutely have now idea what position absolute is for
+* after 2 years first time biking in rain and getting soaked totally. Question from my 5y son: why did you not drive a car?
+
+I feel like I am missing something, like everything probably.... and yes, it is just third day.
+Anyway, I started coding layout for other website, a simple psd file based one. Because if I will stare for the whole day at the project 01 files I might as well get crazy right away.
+Plus I did not do any JS from 4 days, buuuuuu.
+And I am hosting playdate tomorrow, lucky mommy...
 
 cheers,
 Kate
